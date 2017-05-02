@@ -11,5 +11,5 @@
 	
 + Project summary: 
 	+ The H-1B is an employment-based, non-immigrant visa category for temporary foreign workers in the United States. For a foreign national to apply for H1-B visa, an US employer must offer a job and petition for H-1B visa with the US immigration department. This is the most common visa status applied for and held by international students once they complete college/higher education (Masters, PhD) and work in the US. The Office of Foreign Labor Certification (OFLC) generates program data that is useful information about the immigration programs including the H1-B visa.
-	+ In this project, I utilize the H1B visa petition dataset and perform data interactive Map. See my project in the app folder. 
+	+ In this project, I utilize the H1B visa petition dataset and perform data interactive map. See my project in the app folder. 
 
