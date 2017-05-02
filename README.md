@@ -1,4 +1,4 @@
-# ADS Project 5: "Survive or Not" - H-1B Visa Petition Analysis Shiny App
+# ADS Project 5: "Survive or Not" - H-1B Visa Petition Map Shiny App
 
 ![H1B Visa](http://www.spotlifeasia.com/wp-content/uploads/2017/01/Trump-H1b-Visa.png)
 
