@@ -1,6 +1,6 @@
 # ADS Project 5: "Survive or Not" - H-1B Visa Petition Map Shiny App
 
-![H1B Visa](https://www.guruin.com/articles/1874)
+![H1B Visa](http://www.spotlifeasia.com/wp-content/uploads/2017/01/Trump-H1b-Visa.png)
 
 + Term: Spring 2017
 + Projec title: H1B Visa Application Map Exploration Shiny App
