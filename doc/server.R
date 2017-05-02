@@ -10,10 +10,11 @@ library(stats)
 library(rdrop2)
 library(mapproj)
 
-df <- readRDS('D:/h1b_transformed.rds')
+setwd("D:/Spr2017-Proj5-SiyuanYao")
+df <- readRDS('./data/h1b_transformed.rds')
 
 #Helper functions
-source("helpers.R")
+source("./doc/helpers.R")
 
 # Initializing value containers used for plotting
 metric_lab_hash <- hashmap(c("TotalApps","CertiApps","Wage"),c("TOTAL H-1B VISA APPLICATIONS", "CERTIFIED H-1B VISA APPLICATIONS","MEDIAN PREVAILING WAGE"))
